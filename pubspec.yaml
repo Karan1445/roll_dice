@@ -32,7 +32,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  audioplayers: ^0.20.1
 
 
 
